@@ -2,7 +2,7 @@
 
 # Zhuzhi-6B
 
-[Hugging Face](https://huggingface.co/emotibot-inc/Zhuzhi-6B) | [GitHub](https://github.com/emotibot-inc/Zhuzhi-6B) | [Model Scope](https://modelscope.cn/models/emotibotinc/Zhuzhi-6B/summary)
+[Hugging Face](https://huggingface.co/emotibot-inc/Zhuzhi-6B) | [GitHub](https://github.com/emotibot-inc/Zhuzhi-6B) | [Model Scope](https://modelscope.cn/models/emotibotinc/Zhuzhi-6B/summary) | [Emotibrain](https://brain.emotibot.com/?source=zhuzhi6b_github)
 
 # **模型介绍**
 
